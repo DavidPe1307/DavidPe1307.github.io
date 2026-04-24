@@ -90,7 +90,6 @@ const yo = {
 
 ## 🚀 Proyectos Destacados
 
-> *Aquí irán mis proyectos a medida que los construya. ¡Vuelve pronto!*
 
 <!--
 ### 🌐 [Nombre del Proyecto](enlace)
