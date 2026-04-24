@@ -59,12 +59,12 @@ const yo = {
 ## 📊 Mis Estadísticas en GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidPe1307&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidPe1307&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidPe1307&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidPe1307&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=DavidPe1307&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -128,9 +128,7 @@ const yo = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/DavidPe1307)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidpe1307@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portfolio.vercel.app)
 
 </div>
 
@@ -143,9 +141,6 @@ const yo = {
 *"Primero hazlo funcionar. Luego hazlo bonito. Finalmente hazlo rápido."*
 
 ---
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DavidPe1307.DavidPe1307)
-
 **¡Gracias por visitar mi perfil! 🚀**
 *Hecho con ❤️ desde Ambato, Ecuador*
 
