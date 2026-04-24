@@ -101,6 +101,12 @@ const yo = {
 > Descripción breve.
 `React` `CSS`
 -->
+### 🌐 [Elaboración de un Tamagotchi](https://github.com/DavidPe1307/Tamagotchi.git)
+> Desarrollo de un tamagotchi, ambientado en las clasicas mascotas y con patrones de diseño.
+`HTML` `CSS` `JavaScript`
+
+
+
 
 ---
 
